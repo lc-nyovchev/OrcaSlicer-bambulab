@@ -1,3 +1,5 @@
+Learn what LGPL means, BambuLabs!
+
 <div align="center">
 
 <picture>
