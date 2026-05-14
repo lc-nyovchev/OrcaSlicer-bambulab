@@ -1,4 +1,4 @@
-Learn what LGPL means, BambuLabs!
+Learn what AGPL means, BambuLabs!
 
 <div align="center">
 
